@@ -11,7 +11,7 @@ namespace ConsoleApp10
     {
         private int _Reselt=0;
         private int _listReselt=0;
-
+        
         private void ListReselt()
         {
 
